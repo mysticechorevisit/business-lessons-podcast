@@ -9,7 +9,7 @@
     <itunes:summary>Every day, two hosts take one real decision from a famous company (a bet that paid off, a mistake that cost billions, a pivot that saved everything) and turn it into a lesson you can use in your own work or business. About 10 minutes. Hosts are AI voices; every story is researched and fact-checked. From the makers of the EchoRevisit YouTube channel (@echorevisit).</itunes:summary>
     <itunes:subtitle>One real business lesson a day, from the decisions that made or broke famous companies.</itunes:subtitle>
     <itunes:author>EchoRevisit</itunes:author>
-    
+    <itunes:owner><itunes:name>EchoRevisit</itunes:name><itunes:email>mysticecho.revisit@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://mysticechorevisit.github.io/business-lessons-podcast/cover.jpg"/>
     <image><url>https://mysticechorevisit.github.io/business-lessons-podcast/cover.jpg</url><title>Business Lessons by EchoRevisit</title><link>https://mysticechorevisit.github.io/business-lessons-podcast/</link></image>
     <itunes:category text="Business"><itunes:category text="Entrepreneurship"/></itunes:category>
